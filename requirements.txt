@@ -1,0 +1,13 @@
+imageio
+kmeans1d
+matplotlib
+pillow
+scikit-image
+scikit-learn
+scipy==1.1.0
+tensorboardX
+thop
+tqdm
+torch
+torchvision
+ipdb
